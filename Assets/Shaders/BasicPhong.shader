@@ -9,7 +9,7 @@
 	
 	SubShader {
 		Tags{
-			"Queue" = "Geoemtry"
+			"Queue" = "Geometry"
 		}
 
 		CGPROGRAM
